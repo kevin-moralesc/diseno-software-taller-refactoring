@@ -1,3 +1,3 @@
-# diseno-software-taller-refactoring
+# Diseno-software-taller-refactoring
 
 ### Taller Refactoring
