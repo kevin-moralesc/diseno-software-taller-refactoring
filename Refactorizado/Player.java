@@ -20,7 +20,7 @@ public class Player implements IPlayer {
             case 2:
                 return new Scissors();
             default:
-                return new Rock(); // Caso por defecto de seguridad
+                return new Rock();
         }
     }
 
